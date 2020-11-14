@@ -1,3 +1,5 @@
+//geekmatic.in.ua
+
 int motorPin1 = 8; // Blue / Синий   - 28BYJ48 pin 1
 int motorPin2 = 9; // Pink  / Розовый  - 28BYJ48 pin 2
 int motorPin3 = 10; // Yellow / Желтый - 28BYJ48 pin 3
